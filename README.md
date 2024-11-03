@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <div>
     <a href="http://yuanfang19959.tech/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(hi%2C%20I'm%20zzb);!&center=true&size=27" />

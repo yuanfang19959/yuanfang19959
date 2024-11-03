@@ -28,6 +28,22 @@
 
 </table>
 
+### 🏢 Work Experience
+- [法本科技]() &emsp; 📌 2022 - 至今
+
+  - 工作岗位：高级前端开发
+  - 工作内容：OceanBase 社区前端开发，搬砖🧱
+
+- [三川国德]() &emsp; 📌 2020 - 2022
+
+  - 工作岗位：前端开发
+  - 工作内容：前端组长，搬砖🧱
+
+- [黑尘科技]() &emsp; 📌 2019 - 2020
+
+  - 工作岗位：前端开发
+  - 工作内容：搬砖🧱的第一年
+
 </div>
 
 
@@ -37,8 +53,9 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![NEXT.js Badge](https://img.shields.io/badge/NEXTJS-E34F26?logo=NEXT&logoColor=fff&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)

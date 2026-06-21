@@ -20,14 +20,6 @@
   
 <tr><td>
 
-### 🤺 About Me
-
-<p>&emsp;&emsp;嗨! 你好，我是yuanfang19959。毕业于浙江外国语学院，计算机科学与技术专业</p>
-<p>&emsp;&emsp;今天你下班了嘛</p>
-
-</table>
-<!--  skill badge 技能徽章 -->
-
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)

@@ -23,31 +23,9 @@
 ### 🤺 About Me
 
 <p>&emsp;&emsp;嗨! 你好，我是yuanfang19959。毕业于浙江外国语学院，计算机科学与技术专业</p>
-<p>&emsp;&emsp;热爱计算机科学，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;今天你下班了嘛</p>
 
 </table>
-
-### 🏢 Work Experience
-- [法本科技]() &emsp; 📌 2022 - 至今
-
-  - 工作岗位：高级前端开发
-  - 工作内容：OceanBase 社区前端开发，搬砖🧱
-
-- [三川国德]() &emsp; 📌 2020 - 2022
-
-  - 工作岗位：前端开发
-  - 工作内容：前端组长，搬砖🧱
-
-- [黑尘科技]() &emsp; 📌 2019 - 2020
-
-  - 工作岗位：前端开发
-  - 工作内容：搬砖🧱的第一年
-
-</div>
-
-
-
 <!--  skill badge 技能徽章 -->
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
